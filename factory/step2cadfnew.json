@@ -1,0 +1,9 @@
+{
+	"name": "step2cadfnew",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "97da0e01-eec9-4c2d-9552-111ce26e2bfa",
+		"tenantId": "76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61"
+	}
+}
